@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "electron": "^30.0.8",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  },
+  "name": "imageresizer",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Denzel Fynn",
+  "license": "MIT",
+  "description": ""
+}
